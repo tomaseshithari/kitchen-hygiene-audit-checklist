@@ -13,6 +13,7 @@ A standardized checklist for performing internal kitchen hygiene audits, based o
 - [ ] No staff member is working while experiencing symptoms of illness (vomiting, diarrhea, fever)?
 - [ ] Hair restraints (nets/hats) are being worn by all kitchen staff?
 - [ ] Fingernails are kept short, clean, and free of polish or artificial nails?
+- [ ] Disposable gloves are changed between tasks and when torn or soiled?
 
 ## 2. Receiving & Storage
 
